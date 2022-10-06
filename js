@@ -1,0 +1,1 @@
+man javascriptda kod yozishni bilmiman
